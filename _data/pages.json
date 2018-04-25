@@ -7,16 +7,22 @@
 		,"file": "home.html"
 	}
 	,{
-		"id": "career"
-		,"menu": "Career Overview"
-		,"title": "Career Overview"
-		,"file": "careerOverview.html"
-	}
-	,{
 		"id": "mediation"
 		,"menu": "Mediation – Arbitration – A D R"
 		,"title": "Mediation – Arbitration – A D R"
 		,"file": "mediation.html"
+	}
+	,{
+		"id": "advisor"
+		,"menu": "Legal Adviser – Consultant at Law"
+		,"title": "Legal Adviser – Consultant at Law"
+		,"file": "advisor.html"
+	}
+	,{
+		"id": "career"
+		,"menu": "Career Overview"
+		,"title": "Career Overview"
+		,"file": "careerOverview.html"
 	}
 	,{
 		"id": "cases"
