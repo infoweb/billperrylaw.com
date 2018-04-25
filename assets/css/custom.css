@@ -1,1 +1,5 @@
-/* Add here all your css styles (customizations) */
+.h1 {
+	font-family: Copperplate, "Copperplate Gothic Light", "Libre Baskerville";
+	font-size: 45px;
+	/* font-variant: small-caps; */
+}
