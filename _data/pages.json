@@ -3,7 +3,7 @@
 		"id": "home"
 		,"menu": "Home"
 		,"title": "Bill Perry Law"
-		,"subtitle": "Arbitrator – Mediator - Legal Adviser – Consultant at Law"
+		,"subtitle": "Arbitrator – Mediator - Legal Adviser – Counsellor at Law"
 		,"file": "home.html"
 	}
 	,{
@@ -14,8 +14,8 @@
 	}
 	,{
 		"id": "advisor"
-		,"menu": "Legal Adviser – Consultant at Law"
-		,"title": "Legal Adviser – Consultant at Law"
+		,"menu": "Legal Adviser – Counsellor at Law"
+		,"title": "Legal Adviser – Counsellor at Law"
 		,"file": "advisor.html"
 	}
 	,{
