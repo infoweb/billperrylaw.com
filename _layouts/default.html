@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Bill Perry Law</title>
+	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -100,6 +100,12 @@
 								</li>
 								<li class="list-inline-item">
 									<a class="g-color-white-opacity-0_8 g-color-white--hover" href="/terms-of-use">Terms of Use</a>
+								</li>
+								<li class="list-inline-item">
+									<span>|</span>
+								</li>
+								<li class="list-inline-item">
+									<a class="g-color-white-opacity-0_8 g-color-white--hover" href="/complaints-procedure">Complaints Procedure</a>
 								</li>
 							</ul>
 						</div>
