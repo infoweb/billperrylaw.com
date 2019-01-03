@@ -1,5 +1,8 @@
----
 title: Bill Perry Law
+
+url: https://www.billperrylaw.com
+baseurl: ''
+
 timezone: UTC
 collections:
   posts:
@@ -8,5 +11,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: https://www.billperrylaw.com
-baseurl: ''
